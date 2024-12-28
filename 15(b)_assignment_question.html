@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>question number 2</title>
+</head>
+<body>
+    <form action="/action">
+        <div>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" placeholder="enter your name">
+        </div>
+        <div>
+            <label for="gnd">Sex:</label>
+            <input type="radio" id="gender" name="gnd" value="male"> 
+            <label for="gender">male</label>
+            <input type="radio" id="gender" name="gnd" valve ="female">
+            <label for="gender">female</label>
+        </div>
+        <div>
+            country:
+            <select name="ctry" id="country">
+                <option>select an option</option>
+                <option value="ind">india</option>
+                <option value="usa">USA</option>
+                <option value="cnd">canada</option>
+            </select>
+        </div>
+        <div>
+            <label for="psg">Message:</label>
+            <br>
+            <textarea id="psg" rows="5" cols="30"></textarea>
+        </div>
+        <div>
+            <input type="checkbox" name="agree" id="subscribe">
+            <label for="subscribe">Subscribe?</label>
+        </div>
+        <button>submit</button>
+    </form>
+</body>
+</html>
