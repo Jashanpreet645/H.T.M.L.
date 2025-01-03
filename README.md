@@ -4,12 +4,12 @@ This repository documents my learning journey, starting from the basics of HTML 
 # Repository Contents
 - Basic HTML: Introduction to the structure of web pages, including tags, elements, and attributes.
 - HTML Concepts: Comprehensive examples and explanations of concepts such as:
-- Forms and Inputs
-- Tables
-- Links
-- Multimedia (Images, Audio, and Video)
-- Semantic Elements
-- And more!
+  - Forms and Inputs
+  - Tables
+  - Links
+  - Multimedia (Images, Audio, and Video)
+  - Semantic Elements
+  - And more!
 
 # Key Highlights
 - Beginner-friendly examples with detailed comments in the code.
